@@ -1,0 +1,19 @@
+{
+  "" : {
+    "diagnostics" : "/Users/test/Desktop/helloflutter/op_shop/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/x86_64/FlutterFramework-primary.dia",
+    "emit-module-dependencies" : "/Users/test/Desktop/helloflutter/op_shop/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/x86_64/FlutterFramework-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/test/Desktop/helloflutter/op_shop/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/x86_64/FlutterFramework-primary-emit-module.dia",
+    "pch" : "/Users/test/Desktop/helloflutter/op_shop/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/x86_64/FlutterFramework-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/test/Desktop/helloflutter/op_shop/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/x86_64/FlutterFramework-primary.swiftdeps"
+  },
+  "/Users/test/Desktop/helloflutter/op_shop/macos/Flutter/ephemeral/Packages/.packages/FlutterFramework/Sources/FlutterFramework/FlutterFramework.swift" : {
+    "const-values" : "/Users/test/Desktop/helloflutter/op_shop/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/x86_64/FlutterFramework.swiftconstvalues",
+    "dependencies" : "/Users/test/Desktop/helloflutter/op_shop/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/x86_64/FlutterFramework.d",
+    "diagnostics" : "/Users/test/Desktop/helloflutter/op_shop/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/x86_64/FlutterFramework.dia",
+    "index-unit-output-path" : "/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/x86_64/FlutterFramework.o",
+    "llvm-bc" : "/Users/test/Desktop/helloflutter/op_shop/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/x86_64/FlutterFramework.bc",
+    "object" : "/Users/test/Desktop/helloflutter/op_shop/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/x86_64/FlutterFramework.o",
+    "swift-dependencies" : "/Users/test/Desktop/helloflutter/op_shop/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/x86_64/FlutterFramework.swiftdeps",
+    "swiftmodule" : "/Users/test/Desktop/helloflutter/op_shop/build/macos/Build/Intermediates.noindex/FlutterFramework.build/Debug/FlutterFramework.build/Objects-normal/x86_64/FlutterFramework~partial.swiftmodule"
+  }
+}
