@@ -1,0 +1,19 @@
+{
+  "" : {
+    "diagnostics" : "/Users/test/Desktop/helloflutter/op_shop/build/macos/Build/Intermediates.noindex/FlutterGeneratedPluginSwiftPackage.build/Debug/FlutterGeneratedPluginSwiftPackage.build/Objects-normal/x86_64/FlutterGeneratedPluginSwiftPackage-primary.dia",
+    "emit-module-dependencies" : "/Users/test/Desktop/helloflutter/op_shop/build/macos/Build/Intermediates.noindex/FlutterGeneratedPluginSwiftPackage.build/Debug/FlutterGeneratedPluginSwiftPackage.build/Objects-normal/x86_64/FlutterGeneratedPluginSwiftPackage-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/test/Desktop/helloflutter/op_shop/build/macos/Build/Intermediates.noindex/FlutterGeneratedPluginSwiftPackage.build/Debug/FlutterGeneratedPluginSwiftPackage.build/Objects-normal/x86_64/FlutterGeneratedPluginSwiftPackage-primary-emit-module.dia",
+    "pch" : "/Users/test/Desktop/helloflutter/op_shop/build/macos/Build/Intermediates.noindex/FlutterGeneratedPluginSwiftPackage.build/Debug/FlutterGeneratedPluginSwiftPackage.build/Objects-normal/x86_64/FlutterGeneratedPluginSwiftPackage-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/test/Desktop/helloflutter/op_shop/build/macos/Build/Intermediates.noindex/FlutterGeneratedPluginSwiftPackage.build/Debug/FlutterGeneratedPluginSwiftPackage.build/Objects-normal/x86_64/FlutterGeneratedPluginSwiftPackage-primary.swiftdeps"
+  },
+  "/Users/test/Desktop/helloflutter/op_shop/macos/Flutter/ephemeral/Packages/FlutterGeneratedPluginSwiftPackage/Sources/FlutterGeneratedPluginSwiftPackage/FlutterGeneratedPluginSwiftPackage.swift" : {
+    "const-values" : "/Users/test/Desktop/helloflutter/op_shop/build/macos/Build/Intermediates.noindex/FlutterGeneratedPluginSwiftPackage.build/Debug/FlutterGeneratedPluginSwiftPackage.build/Objects-normal/x86_64/FlutterGeneratedPluginSwiftPackage.swiftconstvalues",
+    "dependencies" : "/Users/test/Desktop/helloflutter/op_shop/build/macos/Build/Intermediates.noindex/FlutterGeneratedPluginSwiftPackage.build/Debug/FlutterGeneratedPluginSwiftPackage.build/Objects-normal/x86_64/FlutterGeneratedPluginSwiftPackage.d",
+    "diagnostics" : "/Users/test/Desktop/helloflutter/op_shop/build/macos/Build/Intermediates.noindex/FlutterGeneratedPluginSwiftPackage.build/Debug/FlutterGeneratedPluginSwiftPackage.build/Objects-normal/x86_64/FlutterGeneratedPluginSwiftPackage.dia",
+    "index-unit-output-path" : "/FlutterGeneratedPluginSwiftPackage.build/Debug/FlutterGeneratedPluginSwiftPackage.build/Objects-normal/x86_64/FlutterGeneratedPluginSwiftPackage.o",
+    "llvm-bc" : "/Users/test/Desktop/helloflutter/op_shop/build/macos/Build/Intermediates.noindex/FlutterGeneratedPluginSwiftPackage.build/Debug/FlutterGeneratedPluginSwiftPackage.build/Objects-normal/x86_64/FlutterGeneratedPluginSwiftPackage.bc",
+    "object" : "/Users/test/Desktop/helloflutter/op_shop/build/macos/Build/Intermediates.noindex/FlutterGeneratedPluginSwiftPackage.build/Debug/FlutterGeneratedPluginSwiftPackage.build/Objects-normal/x86_64/FlutterGeneratedPluginSwiftPackage.o",
+    "swift-dependencies" : "/Users/test/Desktop/helloflutter/op_shop/build/macos/Build/Intermediates.noindex/FlutterGeneratedPluginSwiftPackage.build/Debug/FlutterGeneratedPluginSwiftPackage.build/Objects-normal/x86_64/FlutterGeneratedPluginSwiftPackage.swiftdeps",
+    "swiftmodule" : "/Users/test/Desktop/helloflutter/op_shop/build/macos/Build/Intermediates.noindex/FlutterGeneratedPluginSwiftPackage.build/Debug/FlutterGeneratedPluginSwiftPackage.build/Objects-normal/x86_64/FlutterGeneratedPluginSwiftPackage~partial.swiftmodule"
+  }
+}
